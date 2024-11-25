@@ -20,3 +20,7 @@ Iteratively split clusters until each data point is in its own cluster.
 3. Merge the two clusters that are closest based on the similarity metric.
 4. Update the similarity matrix to reflect the merging of clusters.
 5. Repeat steps 3-4 until the stopping criterion (e.g., desired number of clusters) is reached.
+
+Colab link: https://colab.research.google.com/drive/17qkEskyKwU3VE8fECMNqPyLqOw-hzU8Y#scrollTo=zjI3XWoyRqH8
+
+Youtube link: 
