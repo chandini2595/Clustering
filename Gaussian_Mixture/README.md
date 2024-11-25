@@ -9,3 +9,8 @@ How GMM Works:
 3. In the M-Step (Maximization), it updates the cluster parameters to maximize the likelihood of the observed data.
 4. These two steps are repeated until the parameters stabilize, indicating convergence.
 5. Finally, data points are assigned to clusters based on their probabilities, or the probabilities themselves can be used for further analysis.
+
+
+Colab link: https://colab.research.google.com/drive/1U9LCTil-Yb58zHs_0gn1vQ1Avg6vWlsk?usp=sharing
+
+Youtube link:
