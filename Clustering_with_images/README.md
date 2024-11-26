@@ -14,4 +14,4 @@ This project demonstrates the use of image clustering techniques to group simila
 
 Colab link: https://colab.research.google.com/drive/1ZP95a2x0zRWGNA6VDTnNI8Msb6kSB19K?usp=sharing
 
-Youtube link: https://youtu.be/ghBdXha8pqU
+Youtube link: https://youtu.be/kOkG5Ehfhhg
