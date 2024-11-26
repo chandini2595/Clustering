@@ -15,4 +15,4 @@ K-Means clustering is an unsupervised machine learning algorithm used for partit
 
 Colab link: https://colab.research.google.com/drive/1K2wWhrLiSMt5nLJkMEZCrzqpTcYvun04?usp=sharing
 
-Youtube: 
+Youtube: https://youtu.be/jBFeGdcwD18
