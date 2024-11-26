@@ -13,4 +13,4 @@ The project performs the following main tasks:
 
 Colab link: https://colab.research.google.com/drive/1C6z8vpfPBBgFMCzoJ-aE1kxfcdyS222_?usp=sharing
 
-Youtube link:
+Youtube link: https://www.youtube.com/watch?v=8V-1iTId-3Y
