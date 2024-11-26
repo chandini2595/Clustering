@@ -13,4 +13,4 @@ Time series clustering is the process of grouping similar time series data point
 
 Colab link: https://colab.research.google.com/drive/1GlGz_psQzgxRtSg0o4MLZTVQbxT_ow4X?usp=sharing
 
-Youtube link: 
+Youtube link: https://youtu.be/eZjkoc8TNz4
