@@ -14,4 +14,4 @@ DBSCAN groups data points by identifying areas of high density and separating th
 
 Colab link: https://colab.research.google.com/drive/1Q2Id52VIusLN_OZI6wg4uT45c3_I13Vm?usp=sharing
 
-Youtube link: 
+Youtube link: https://youtu.be/WuxpNyWZcGE
