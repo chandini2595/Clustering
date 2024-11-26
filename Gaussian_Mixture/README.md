@@ -13,4 +13,4 @@ How GMM Works:
 
 Colab link: https://colab.research.google.com/drive/1U9LCTil-Yb58zHs_0gn1vQ1Avg6vWlsk?usp=sharing
 
-Youtube link:
+Youtube link: https://youtu.be/8JNc34tBHEM
