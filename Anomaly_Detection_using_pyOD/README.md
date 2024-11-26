@@ -16,3 +16,8 @@ Features
 2. Feature standardization
 3. Visualization of detected anomalies in 2D space
 4. Configurable number of features and samples
+
+
+Colab link: https://colab.research.google.com/drive/1txK0YvAHu-1FRRYwwx3nXjqmoSkLvgJK?usp=sharing
+
+Youtube link: 
