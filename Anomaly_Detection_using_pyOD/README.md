@@ -20,4 +20,4 @@ Features
 
 Colab link: https://colab.research.google.com/drive/1txK0YvAHu-1FRRYwwx3nXjqmoSkLvgJK?usp=sharing
 
-Youtube link: 
+Youtube link: https://youtu.be/QeUECj4Wvwg
