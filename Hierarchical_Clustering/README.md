@@ -23,4 +23,4 @@ Iteratively split clusters until each data point is in its own cluster.
 
 Colab link: https://colab.research.google.com/drive/17qkEskyKwU3VE8fECMNqPyLqOw-hzU8Y#scrollTo=zjI3XWoyRqH8
 
-Youtube link: 
+Youtube link: https://youtu.be/AgcRgawpIKg
