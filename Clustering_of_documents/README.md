@@ -12,4 +12,4 @@ To automate document categorization
 
 Colab link: https://colab.research.google.com/drive/1wVYIkO2SYLnLT_SyZ-9a5-XgP7zw-pax?usp=sharing
 
-Youtube link: 
+Youtube link: https://youtu.be/xvpwOCXh6ww
